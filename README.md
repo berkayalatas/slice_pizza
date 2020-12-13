@@ -5,6 +5,13 @@
 #### Customers can create pizza and order!
 #### Only restaurant staff can login, see orders and make changes.
 #### Mysql Database used.
+## After Order
+![afterOrder](https://user-images.githubusercontent.com/59448862/102019034-fd9e0800-3d81-11eb-90cc-0c0bddd2bce2.png)
+## Complete Order
+![completeOrder](https://user-images.githubusercontent.com/59448862/102019038-055dac80-3d82-11eb-9197-64341e2846cb.png)
+## Orders
+![pizzaPanel](https://user-images.githubusercontent.com/59448862/102019039-05f64300-3d82-11eb-86ae-14155ab98f9d.png)
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
